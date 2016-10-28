@@ -34,5 +34,15 @@ namespace WindowsFormsApplication1
             }
 
         }
+
+        private void btncrearPerfil_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Adminitracion_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

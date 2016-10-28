@@ -13,7 +13,6 @@ namespace DataAcesss.DA
 
 
         #region Insertar
-
         public bool Inserta(string Bar_Code, string Descripcion, string Pre_V, string Pre_C, string sto, string min_st) {
 
             int Precio_Venta = Convert.ToInt32(Pre_V);
@@ -74,6 +73,10 @@ namespace DataAcesss.DA
         }
 
         #endregion Insertar
+
+        #region Cargar
+        
+        #endregion
 
         #region CadenaConexion
 
